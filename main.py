@@ -5,5 +5,4 @@ print("This window will be used as debug, have fun")
 print("-----------------------------------------------------------")
 
 import drawForm
-import test
 
